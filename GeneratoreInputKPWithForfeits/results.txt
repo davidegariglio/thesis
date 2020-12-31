@@ -1,0 +1,16 @@
+Instance 1)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+49990.0             52051.25605246911   200,160             30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              43299.0                  49100.0             7.104               881                 86                  13.397538049377584  
+
+Prof/Weight         44761.0                  49330.0             5.053               870                 66                  10.207546748285337  
+
+(Prof-AVGPen)/Weight45482.0                  48865.0             4.433               884                 49                  7.438107383140583   
+
