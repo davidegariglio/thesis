@@ -18,7 +18,7 @@ import comparators.ComparatorAVGPenalty;
 import comparators.ComparatorProfMinusAVGPenOverW;
 import comparators.ComparatorProfOverW;
 
-//	MODEL ALGORITMO
+//MODEL ALGORITMO
 
 public class Model {
 
