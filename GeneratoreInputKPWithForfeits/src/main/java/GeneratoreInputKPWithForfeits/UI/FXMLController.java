@@ -74,7 +74,7 @@ public class FXMLController {
     		n = Integer.parseInt(this.inputN.getText());
     		moltForfeit = Integer.parseInt(this.moltiplicatoreForfeit.getText());
     		//Cap = somma pesi / 2
-    		moltCapacita = Integer.parseInt(this.moltiplicatoreCapacita.getText());
+    		//moltCapacita = Integer.parseInt(this.moltiplicatoreCapacita.getText());
     		LBPesoOgg= Integer.parseInt(this.LBPesoOggetti.getText());
     		UBPesoOgg= Integer.parseInt(this.UBPesoOggetti.getText());
         	LBProfOgg = Integer.parseInt(this.LBProfittiOggetti.getText());
@@ -87,7 +87,7 @@ public class FXMLController {
     				+ "Si prega di inserire solo numeri interi maggiori di zero.");
     		return;
     	}
-    	if(this.model.generaInput(nInstances, n,moltCapacita, moltForfeit, LBPesoOgg, UBPesoOgg,
+    	if(this.model.generaInput(nInstances, n, moltForfeit, LBPesoOgg, UBPesoOgg,
     			LBProfOgg, UBProfOgg, LBPenalitaForfeit, UBPenalitaForfeit)) {
     		//this.generato = true;
         	txtResul.appendText("Il file .txt è stato creato con successo. Verificare nella cartella.");

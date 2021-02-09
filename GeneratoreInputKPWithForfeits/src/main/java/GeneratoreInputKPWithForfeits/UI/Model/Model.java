@@ -74,7 +74,7 @@ public class Model {
 		
 	}
 	
-	public boolean generaInput(Integer nInstances, Integer n, Integer moltForfeit,Integer moltCapacita, Integer lBPesoOgg, Integer uBPesoOgg, Integer lBProfOgg, Integer uBProfOgg, Integer lBPenalitaForfeit, Integer uBPenalitaForfeit) {
+	public boolean generaInput(Integer nInstances, Integer n, Integer moltForfeit, Integer lBPesoOgg, Integer uBPesoOgg, Integer lBProfOgg, Integer uBProfOgg, Integer lBPenalitaForfeit, Integer uBPenalitaForfeit) {
 		boolean correct = false;
 		this.nInstances = nInstances;
 		this.totInstance += nInstances;
@@ -86,12 +86,12 @@ public class Model {
 		this.penalitaMin = lBPenalitaForfeit;
 		this.penalitaMax = uBPenalitaForfeit;
 		this.moltForfeit = moltForfeit;
-		this.moltCapacita = moltCapacita;
+		//this.moltCapacita = moltCapacita;
 		
 		
 		//Dati derivati da input
 		
-		this.capacity = n * this.moltCapacita;
+		//this.capacity = n * this.moltCapacita;
 		
 		this.nForfeits = n * this.moltForfeit;
 		
@@ -103,7 +103,7 @@ public class Model {
 			
 			String items = this.generaOggetti(profMin, profMax, pesoMin, pesoMax);
 
-			String result = this.nOggetti+"\n"+/*this.getCapacityFormItems(items)*/this.capacity+"\n"+this.nForfeits+"\n";
+			String result = this.nOggetti+"\n"+this.getCapacityFormItems(items)+"\n"+this.nForfeits+"\n";
 			
 		    //Genero Profitti e Pesi degli oggetti
 			result += items;
@@ -112,7 +112,7 @@ public class Model {
 			//Una volta generato l'input, lo scrivo!
 			try {
 				//TODO: correggere nome file
-				File file = new File("C:\\Users\\garig\\workspace_tesi\\GeneratoreInputKPWithForfeits\\instances/instance"+(i+1)+".txt");
+				File file = new File("C:\\Users\\garig\\git\\thesis\\GeneratoreInputKPWithForfeits\\instances/instance"+(i+1)+".txt");
 			    System.out.println("Absolute path:" + file.getAbsolutePath());
 			    if (!file.exists()) {
 			        if (file.createNewFile()) {
@@ -229,8 +229,11 @@ public class Model {
 				cplex.addLe(vincoloCapacita, capacity);
 				for(int k = 0; k < this.nForfeits; k++)
 					cplex.addLe(vincoloForfeit[k], 1);
-				//Time limit 30 secs
-				cplex.setParam(IloCplex.DoubleParam.TimeLimit, 200);
+				Integer timeRunning = 0;
+				if(this.nOggetti>=1000)
+					timeRunning = 60;
+				else timeRunning = 30;
+				cplex.setParam(IloCplex.DoubleParam.TimeLimit, timeRunning);
 				long start = System.currentTimeMillis();
 				if(cplex.solve()) {
 					long end = System.currentTimeMillis();

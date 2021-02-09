@@ -29,7 +29,7 @@ public class Model {
 	private long start;
 	private long end;
 	private long bestTime;
-	private int tabuSize = 100;
+	private int tabuSize /*= 50*/;
 	
 	// Siccome applichiamo la filosofia multistart, partiamo da liste ordinate in maniera differente 
 	// in modo da costruire tra diverse soluzioni di partenza
@@ -42,6 +42,8 @@ public class Model {
 	private List<Oggetto> initialCandidates;
 
 	private Solution opt;
+	
+	private Solution best;
 	
 	private List<Oggetto> tabuList;
 	
@@ -76,7 +78,11 @@ public class Model {
  	}
 
 	private void runAlgorithm(List<Oggetto> itemsSortedByCriteria, String type) {
-		
+		this.tabuSize = this.nOggetti / 10;
+		Integer time = 0;
+		if(this.nOggetti>=1000)
+			time = 60;
+		else time = 30;
 		//Generating header in output file
 		this.tabuList = new ArrayList<>();
 		
@@ -86,7 +92,7 @@ public class Model {
 		Solution current = buildInitialSolution(this.capacity, this.initialCandidates);
 		current.removeItemsWithNetProfitLEThanZero();
 		this.start = System.currentTimeMillis();
-		this.end = start + (30*1000);
+		this.end = start + (time*1000);
 		//Init of current solution as starting one
 		this.opt = current;
 		
@@ -137,6 +143,7 @@ public class Model {
 					this.bestTime = System.currentTimeMillis();
 					opt = new Solution(improved);
 					current = new Solution(opt);
+					this.best = current;
 					System.out.println("*****New solution found!*****");
 					System.out.println("Leaving:"+ candidateLeaving);
 					System.out.println("New OBJ: = "+ current.getObjFunction());
@@ -154,18 +161,36 @@ public class Model {
 		System.out.println("Obj.= "+opt.getObjFunction());
 		System.out.println(opt);
 		System.out.println("Res capacity = "+opt.getResidualCapacity());
-		Double time = (this.bestTime-this.start)/Double.valueOf(1000);
-		System.out.println("Result found in: "+time+"s.");
+		Double timeToBest = (this.bestTime-this.start)/Double.valueOf(1000);
+		System.out.println("Result found in: "+timeToBest+"s.");
 		
 		Double improvement = ( (this.opt.getObjFunction() - initialObj) / Math.abs(initialObj))*100;
-		this.writeResultsOnFile(type, Double.toString(initialObj), Double.toString(opt.getObjFunction()), Double.toString(time), totIt, usfIt, improvement);
-
+		this.writeResultsOnFile(type, Double.toString(initialObj), Double.toString(opt.getObjFunction()), Double.toString(timeToBest), totIt, usfIt, improvement);
+		this.writeSolOnFile(this.best);
 	}
 	
 
+	private void writeSolOnFile(Solution best) {
+		try {
+		      FileWriter f = new FileWriter("C:\\Users\\garig\\git\\thesis\\GeneratoreInputKPWithForfeits\\finalSol.txt", true);
+				BufferedWriter bw = new BufferedWriter(f);
+			    PrintWriter out = new PrintWriter(bw);
+			    
+			    for(Oggetto o : best.getItemSet()) {
+			        out.println(o.getId());
+		        }
+			    out.println(";");
+	            out.close();
+	            
+		    } catch (IOException e) {
+		      System.out.println("An error occurred.");
+		      e.printStackTrace();
+		    }
+	}
+
 	public void writeResultsOnFile(String type, String initialObj, String objective, String time, Integer totIt, Integer usfIt, Double percOfIncrement) { 
 		try {
-		      FileWriter f = new FileWriter("C:\\Users\\garig\\workspace_tesi\\GeneratoreInputKPWithForfeits\\results.txt", true);
+		      FileWriter f = new FileWriter("C:\\Users\\garig\\git\\thesis\\GeneratoreInputKPWithForfeits\\results.txt", true);
 				BufferedWriter bw = new BufferedWriter(f);
 			    PrintWriter out = new PrintWriter(bw);
 		        final Object[][] table = new String[1][7];

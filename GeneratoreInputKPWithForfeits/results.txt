@@ -2,15 +2,1799 @@ Instance 1)
 CPLEX results:
 
 Obj.                Best bound          Time[s]             TL[s]               
-49990.0             52051.25605246911   200,160             30                  
+9789.0              11223.997593480774  30,214              30                  
 
 Metaheuristic results:
 
 Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
 
-AVGPen              43299.0                  49100.0             7.104               881                 86                  13.397538049377584  
+AVGPen              8990.0                   9884.0              0.338               4168                17                  9.944382647385984   
 
-Prof/Weight         44761.0                  49330.0             5.053               870                 66                  10.207546748285337  
+Prof/Weight         8353.0                   9677.0              0.161               4263                9                   15.850592601460553  
 
-(Prof-AVGPen)/Weight45482.0                  48865.0             4.433               884                 49                  7.438107383140583   
+(Prof-AVGPen)/Weight8368.0                   9856.0              0.381               4117                21                  17.78202676864245   
+
+Random sorting      8008.0                   9697.0              0.596               4107                31                  21.09140859140859   
+
+Instance 2)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9569.0              10565.923313451683  30,078              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              8066.0                   9324.0              0.303               4200                21                  15.59633027522936   
+
+Prof/Weight         8057.0                   9562.0              0.158               4473                17                  18.679409209383145  
+
+(Prof-AVGPen)/Weight8551.0                   9437.0              0.117               4496                9                   10.361361244298912  
+
+Random sorting      7685.0                   9399.0              0.441               4477                31                  22.303188028627197  
+
+Instance 3)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9603.0              10921.005088243068  30,118              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              8906.0                   9864.0              0.372               3978                23                  10.756793173141702  
+
+Prof/Weight         8525.0                   9803.0              0.341               3948                21                  14.991202346041055  
+
+(Prof-AVGPen)/Weight8554.0                   9815.0              0.669               4043                23                  14.74164133738602   
+
+Random sorting      8795.0                   9715.0              0.295               3889                14                  10.46048891415577   
+
+Instance 4)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+10311.0             11176.901066292005  30,104              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              9419.0                   10414.0             0.137               4016                13                  10.563754114024844  
+
+Prof/Weight         9066.0                   10526.0             0.3                 4397                19                  16.104125303331127  
+
+(Prof-AVGPen)/Weight9079.0                   10587.0             0.18                4404                18                  16.60975878400705   
+
+Random sorting      8684.0                   10327.0             0.489               4014                25                  18.91985260248733   
+
+Instance 5)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9550.0              11093.60617187257   30,091              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              8149.0                   9424.0              0.36                4112                27                  15.646091544974844  
+
+Prof/Weight         7744.0                   9430.0              0.31                4111                22                  21.77169421487603   
+
+(Prof-AVGPen)/Weight8440.0                   9540.0              0.325               4342                16                  13.033175355450238  
+
+Random sorting      7791.0                   9395.0              0.296               4638                22                  20.587857784623285  
+
+Instance 6)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9793.0              10884.724029501529  30,187              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              8344.0                   9704.0              0.801               4099                33                  16.29913710450623   
+
+Prof/Weight         8548.0                   9792.0              0.304               4538                23                  14.553111839026672  
+
+(Prof-AVGPen)/Weight8705.0                   9800.0              0.34                4488                18                  12.578977599080988  
+
+Random sorting      7903.0                   9867.0              0.872               4293                40                  24.851322282677465  
+
+Instance 7)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9857.0              11851.689393939394  30,184              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              9056.0                   10295.0             0.321               3972                16                  13.681537102473499  
+
+Prof/Weight         9311.0                   10396.0             0.258               4383                21                  11.65288368596284   
+
+(Prof-AVGPen)/Weight9458.0                   10363.0             0.255               4393                22                  9.568619158384436   
+
+Random sorting      8007.0                   10397.0             0.45                4066                40                  29.848882228050456  
+
+Instance 8)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9645.0              11161.384691037463  30,097              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              8283.0                   9546.0              0.312               3951                22                  15.248098515030787  
+
+Prof/Weight         7854.0                   9574.0              0.382               4519                25                  21.899668958492487  
+
+(Prof-AVGPen)/Weight8363.0                   9576.0              0.407               4570                22                  14.504364462513452  
+
+Random sorting      7843.0                   9582.0              0.465               4605                27                  22.17263802116537   
+
+Instance 9)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9942.0              10799.392771819086  30,157              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              8396.0                   10068.0             0.475               4160                35                  19.91424487851358   
+
+Prof/Weight         8894.0                   10106.0             0.231               4435                14                  13.627164380481224  
+
+(Prof-AVGPen)/Weight8995.0                   10094.0             0.216               4444                7                   12.217898832684824  
+
+Random sorting      8313.0                   9900.0              0.421               4525                26                  19.090581017683146  
+
+Instance 10)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+10196.0             11308.61482245133   30,191              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              8241.0                   10024.0             0.711               3934                43                  21.635723819924767  
+
+Prof/Weight         8411.0                   9854.0              0.189               4231                18                  17.156105100463677  
+
+(Prof-AVGPen)/Weight8672.0                   9907.0              0.221               4306                22                  14.241236162361623  
+
+Random sorting      8124.0                   10094.0             0.503               3909                39                  24.249138355489908  
+
+Instance 11)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+13956.0             15094.08262652871   30,145              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              12052.0                  13683.0             1.006               2169                29                  13.5330235645536    
+
+Prof/Weight         12442.0                  13566.0             0.692               2137                20                  9.033917376627553   
+
+(Prof-AVGPen)/Weight12508.0                  13682.0             0.503               2158                17                  9.385992964502718   
+
+Random sorting      10419.0                  13539.0             1.684               2188                64                  29.945292254534984  
+
+Instance 12)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+13806.0             16265.737231059913  30,077              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              12235.0                  13843.0             1.151               2094                35                  13.142623620760114  
+
+Prof/Weight         11914.0                  13442.0             1.205               2131                23                  12.825247607856301  
+
+(Prof-AVGPen)/Weight11683.0                  13577.0             1.08                2116                25                  16.211589489001113  
+
+Random sorting      11377.0                  13545.0             0.849               2094                28                  19.055990155577042  
+
+Instance 13)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+13216.0             15907.050392532885  30,065              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              11240.0                  13789.0             1.186               2113                53                  22.677935943060497  
+
+Prof/Weight         11330.0                  13641.0             1.014               2130                32                  20.397175639894087  
+
+(Prof-AVGPen)/Weight11027.0                  13824.0             0.724               2171                28                  25.365013149542033  
+
+Random sorting      10061.0                  13537.0             1.464               2106                51                  34.54924957757678   
+
+Instance 14)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+13724.0             16047.80363783347   30,112              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              12191.0                  14176.0             1.029               2091                41                  16.282503486178328  
+
+Prof/Weight         11284.0                  13990.0             1.198               2110                40                  23.980857851825593  
+
+(Prof-AVGPen)/Weight11765.0                  13955.0             1.245               2089                31                  18.614534636634083  
+
+Random sorting      11914.0                  13981.0             0.679               2097                25                  17.349336914554307  
+
+Instance 15)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+13524.0             16332.59637926543   30,091              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              11655.0                  13934.0             1.629               2091                48                  19.553839553839552  
+
+Prof/Weight         12094.0                  14045.0             0.831               2091                30                  16.13196626426327   
+
+(Prof-AVGPen)/Weight12241.0                  14155.0             0.883               2081                31                  15.635977452822484  
+
+Random sorting      11263.0                  13854.0             1.919               2047                51                  23.004528100861226  
+
+Instance 16)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+13137.0             15715.14961600429   30,080              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              11407.0                  13342.0             0.961               2112                42                  16.96326816866836   
+
+Prof/Weight         11711.0                  13333.0             1.367               2117                30                  13.850226282981811  
+
+(Prof-AVGPen)/Weight11721.0                  13164.0             1.55                2125                30                  12.311236242641414  
+
+Random sorting      10516.0                  13143.0             1.298               2115                51                  24.9809813617345    
+
+Instance 17)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+14047.0             16202.727770691075  30,080              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              12318.0                  14011.0             2.029               2116                41                  13.744114304270175  
+
+Prof/Weight         12541.0                  14142.0             0.45                2161                21                  12.766127103101827  
+
+(Prof-AVGPen)/Weight12936.0                  14126.0             0.438               2189                16                  9.199134199134198   
+
+Random sorting      11249.0                  14073.0             1.272               1999                57                  25.104453729220378  
+
+Instance 18)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+13974.0             16616.75            30,127              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              11957.0                  13872.0             1.158               1962                31                  16.015723007443338  
+
+Prof/Weight         11577.0                  13688.0             1.022               1966                34                  18.234430336011055  
+
+(Prof-AVGPen)/Weight11793.0                  13891.0             1.246               2039                31                  17.79021453404562   
+
+Random sorting      10873.0                  13808.0             1.788               2095                49                  26.993470063459945  
+
+Instance 19)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+13765.0             17118.71875         30,164              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              12289.0                  14447.0             1.155               2021                39                  17.56041988770445   
+
+Prof/Weight         11954.0                  14233.0             1.711               2035                40                  19.06474820143885   
+
+(Prof-AVGPen)/Weight12843.0                  14551.0             0.622               2081                20                  13.299073425212177  
+
+Random sorting      12071.0                  14484.0             1.009               2041                35                  19.990058818656284  
+
+Instance 20)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+13707.0             16418.336746437704  30,089              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              11847.0                  13941.0             1.066               2127                33                  17.675360850848314  
+
+Prof/Weight         11806.0                  13753.0             1.736               2127                37                  16.49161443333898   
+
+(Prof-AVGPen)/Weight12543.0                  13980.0             0.498               2067                22                  11.456589332695527  
+
+Random sorting      11102.0                  13968.0             1.568               2082                54                  25.815168438119258  
+
+Instance 21)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+15459.0             18351.06656801759   30,118              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              13646.0                  15888.0             1.763               1634                41                  16.42972299574967   
+
+Prof/Weight         13939.0                  15677.0             0.99                1626                22                  12.46861324341775   
+
+(Prof-AVGPen)/Weight14330.0                  15712.0             1.032               1645                25                  9.64410327983252    
+
+Random sorting      14052.0                  15811.0             1.199               1627                29                  12.517791061770566  
+
+Instance 22)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+15388.0             18533.215277777777  30,086              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              13500.0                  16064.0             1.523               1593                52                  18.99259259259259   
+
+Prof/Weight         13441.0                  15902.0             1.125               1630                38                  18.309649579644372  
+
+(Prof-AVGPen)/Weight13931.0                  15945.0             1.634               1618                32                  14.456966477639796  
+
+Random sorting      13518.0                  15728.0             1.862               1611                33                  16.34857227400503   
+
+Instance 23)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+15294.0             18517.680397727276  30,088              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              13321.0                  15614.0             2.408               1650                42                  17.213422415734556  
+
+Prof/Weight         13465.0                  15744.0             1.017               1676                31                  16.925362049758633  
+
+(Prof-AVGPen)/Weight13933.0                  15799.0             0.568               1665                22                  13.392664896289386  
+
+Random sorting      12784.0                  15601.0             1.035               1659                36                  22.035356695869837  
+
+Instance 24)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+15241.0             18699.30145900375   30,109              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              13753.0                  15496.0             1.336               1625                34                  12.673598487602705  
+
+Prof/Weight         12884.0                  15475.0             1.116               1631                33                  20.110214219186588  
+
+(Prof-AVGPen)/Weight13144.0                  15310.0             0.609               1678                20                  16.47900182592818   
+
+Random sorting      12943.0                  15442.0             1.498               1631                39                  19.307733910221742  
+
+Instance 25)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+15015.0             18519.916666666668  30,089              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              13308.0                  15780.0             1.596               1605                34                  18.575293056807933  
+
+Prof/Weight         13480.0                  15681.0             1.319               1616                24                  16.327893175074184  
+
+(Prof-AVGPen)/Weight14045.0                  15791.0             0.962               1631                15                  12.431470274118904  
+
+Random sorting      12687.0                  15500.0             1.394               1603                48                  22.172302356743124  
+
+Instance 26)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+15102.0             18069.672849915685  30,090              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              13287.0                  15626.0             2.147               1598                58                  17.60367276285091   
+
+Prof/Weight         13079.0                  15570.0             1.491               1620                38                  19.045798608456305  
+
+(Prof-AVGPen)/Weight13311.0                  15556.0             1.027               1617                33                  16.86575013147021   
+
+Random sorting      12657.0                  15263.0             2.24                1581                46                  20.58939717152564   
+
+Instance 27)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+15516.0             18472.349979491388  30,100              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              13989.0                  15948.0             1.131               1639                29                  14.003860175852456  
+
+Prof/Weight         13517.0                  15954.0             0.778               1672                29                  18.02914847969224   
+
+(Prof-AVGPen)/Weight14564.0                  15866.0             0.635               1672                21                  8.939851689096402   
+
+Random sorting      12509.0                  15617.0             1.24                1657                44                  24.84611080022384   
+
+Instance 28)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+15178.0             19107.5625          30,053              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              13246.0                  15518.0             1.262               1671                37                  17.15234787860486   
+
+Prof/Weight         13825.0                  15709.0             1.066               1678                25                  13.62748643761302   
+
+(Prof-AVGPen)/Weight14195.0                  15598.0             0.717               1709                14                  9.88376188798873    
+
+Random sorting      12661.0                  15280.0             3.405               1674                55                  20.685569860200616  
+
+Instance 29)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+14739.0             18306.724264705877  30,090              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              12952.0                  15098.0             4.304               1619                43                  16.568869672637433  
+
+Prof/Weight         13922.0                  15404.0             0.785               1646                22                  10.645022266915673  
+
+(Prof-AVGPen)/Weight13830.0                  15299.0             0.467               1630                16                  10.621836587129428  
+
+Random sorting      12668.0                  15478.0             2.472               1597                52                  22.181875592042942  
+
+Instance 30)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+15348.0             18331.166666666668  30,094              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              13652.0                  15905.0             2.041               1500                53                  16.503076472311747  
+
+Prof/Weight         12809.0                  15671.0             1.137               1473                36                  22.343664610820515  
+
+(Prof-AVGPen)/Weight13560.0                  15623.0             1.271               1562                29                  15.21386430678466   
+
+Random sorting      13288.0                  15408.0             1.619               1534                31                  15.954244431065623  
+
+Instance 31)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+20209.0             23182.21106540958   60,286              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16921.0                  20022.0             3.725               1801                62                  18.32634005082442   
+
+Prof/Weight         18222.0                  20128.0             2.267               2063                30                  10.45988365711777   
+
+(Prof-AVGPen)/Weight18019.0                  19931.0             1.673               2163                20                  10.611021699317387  
+
+Random sorting      16800.0                  19822.0             2.229               1920                37                  17.98809523809524   
+
+Instance 32)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19164.0             23314.29366574242   60,151              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16993.0                  19738.0             3.383               1872                56                  16.15371035132113   
+
+Prof/Weight         16711.0                  19258.0             3.021               2104                47                  15.241457722458259  
+
+(Prof-AVGPen)/Weight17418.0                  19408.0             2.364               2088                32                  11.424962682282697  
+
+Random sorting      15514.0                  19567.0             3.728               2104                60                  26.124790511795798  
+
+Instance 33)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19463.0             22815.972892562615  60,222              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              17627.0                  19701.0             1.7                 1942                30                  11.766040732966472  
+
+Prof/Weight         17385.0                  19519.0             1.874               2154                28                  12.274949669255104  
+
+(Prof-AVGPen)/Weight17503.0                  19562.0             2.073               2125                25                  11.763697651831114  
+
+Random sorting      15412.0                  19565.0             4.381               2137                61                  26.946535167402025  
+
+Instance 34)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19904.0             24078.641547429434  60,115              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16797.0                  19892.0             7.974               1850                61                  18.425909388581292  
+
+Prof/Weight         17642.0                  20221.0             2.282               2084                36                  14.618523976873371  
+
+(Prof-AVGPen)/Weight18536.0                  20216.0             1.741               1989                25                  9.06344410876133    
+
+Random sorting      16878.0                  20515.0             3.844               1867                68                  21.548761701623416  
+
+Instance 35)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19236.0             22689.183279098565  60,119              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16690.0                  19467.0             2.621               1918                49                  16.638705811863392  
+
+Prof/Weight         16512.0                  19596.0             2.064               2048                43                  18.677325581395348  
+
+(Prof-AVGPen)/Weight17113.0                  19666.0             1.732               2133                30                  14.918483024601182  
+
+Random sorting      16374.0                  19591.0             1.68                2075                44                  19.6470013435935    
+
+Instance 36)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19752.0             23066.397911182747  60,123              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16929.0                  19702.0             4.631               1899                63                  16.380176029298838  
+
+Prof/Weight         16954.0                  19869.0             3.239               2102                53                  17.193582635366287  
+
+(Prof-AVGPen)/Weight17642.0                  19908.0             3.331               2114                37                  12.844348713297812  
+
+Random sorting      15996.0                  19679.0             6.982               1897                67                  23.024506126531634  
+
+Instance 37)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+18596.0             22323.245547769984  60,114              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16731.0                  19060.0             3.406               1775                48                  13.920267766421613  
+
+Prof/Weight         16373.0                  19345.0             1.609               2136                40                  18.15183533866732   
+
+(Prof-AVGPen)/Weight16872.0                  19345.0             1.811               2144                36                  14.657420578473209  
+
+Random sorting      15494.0                  19073.0             3.039               2173                58                  23.09926423131535   
+
+Instance 38)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19640.0             23277.805134415157  60,117              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              17507.0                  19798.0             2.43                1884                48                  13.086194093791054  
+
+Prof/Weight         17750.0                  19803.0             3.16                2119                34                  11.566197183098591  
+
+(Prof-AVGPen)/Weight18221.0                  19767.0             1.725               2114                23                  8.484715438230612   
+
+Random sorting      16151.0                  19803.0             4.11                1896                64                  22.611602996718467  
+
+Instance 39)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19810.0             23188.103060747635  60,236              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16716.0                  19737.0             3.465               1890                57                  18.072505384063174  
+
+Prof/Weight         16752.0                  19695.0             1.83                2106                42                  17.568051575931232  
+
+(Prof-AVGPen)/Weight17263.0                  19784.0             2.926               2107                42                  14.60348722701732   
+
+Random sorting      15550.0                  19906.0             5.732               1810                79                  28.012861736334404  
+
+Instance 40)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19046.0             23066.616581923754  60,156              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16861.0                  19728.0             3.691               1858                59                  17.003736433189015  
+
+Prof/Weight         17097.0                  19693.0             2.149               2089                40                  15.183950400655085  
+
+(Prof-AVGPen)/Weight17161.0                  19723.0             1.976               2044                36                  14.929199930074006  
+
+Random sorting      16598.0                  19615.0             4.06                1862                44                  18.176888781780935  
+
+Instance 41)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+28656.0             36494.59523809524   60,153              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              25909.0                  29904.0             11.967              846                 68                  15.41935234860473   
+
+Prof/Weight         25848.0                  29862.0             9.998               858                 46                  15.529247910863509  
+
+(Prof-AVGPen)/Weight26455.0                  30173.0             8.502               860                 48                  14.054054054054054  
+
+Random sorting      24227.0                  29987.0             10.685              853                 91                  23.775126924505717  
+
+Instance 42)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+29410.0             36578.20637408568   60,155              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              25391.0                  30429.0             8.569               840                 79                  19.841676184474814  
+
+Prof/Weight         25665.0                  30416.0             9.427               852                 73                  18.51159166179622   
+
+(Prof-AVGPen)/Weight27021.0                  30560.0             8.573               849                 55                  13.097220680211688  
+
+Random sorting      24969.0                  30456.0             13.919              842                 116                 21.975249309143337  
+
+Instance 43)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+28131.0             35908.33333333333   60,195              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              24593.0                  29034.0             10.302              822                 70                  18.057983979181067  
+
+Prof/Weight         25894.0                  29637.0             6.976               855                 54                  14.455086120336757  
+
+(Prof-AVGPen)/Weight26091.0                  29383.0             5.834               858                 36                  12.617377639799166  
+
+Random sorting      24282.0                  29500.0             11.203              842                 88                  21.489168931718968  
+
+Instance 44)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+28731.0             36155.25            60,142              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              25762.0                  29772.0             6.594               838                 61                  15.565561679993788  
+
+Prof/Weight         26388.0                  30012.0             8.47                798                 57                  13.733515234197363  
+
+(Prof-AVGPen)/Weight27499.0                  29926.0             3.058               791                 33                  8.825775482744827   
+
+Random sorting      24792.0                  29543.0             18.36               685                 95                  19.163439819296546  
+
+Instance 45)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+27517.0             36034.833333333336  60,252              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              24970.0                  29179.0             15.016              745                 84                  16.85622747296756   
+
+Prof/Weight         24978.0                  29333.0             10.88               767                 70                  17.4353431019297    
+
+(Prof-AVGPen)/Weight26247.0                  29318.0             9.94                759                 51                  11.700384805882576  
+
+Random sorting      23307.0                  28884.0             12.772              763                 81                  23.928433517827262  
+
+Instance 46)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+27471.0             35835.666666666664  60,124              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              25630.0                  29595.0             11.076              757                 74                  15.470152165431136  
+
+Prof/Weight         25838.0                  29773.0             12.816              758                 55                  15.22950692778079   
+
+(Prof-AVGPen)/Weight26332.0                  29855.0             7.786               768                 51                  13.379158438401944  
+
+Random sorting      24304.0                  29654.0             14.411              732                 91                  22.012837393021726  
+
+Instance 47)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+27967.0             35957.0625          60,140              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              25491.0                  29643.0             9.669               782                 78                  16.288101682946923  
+
+Prof/Weight         25687.0                  29394.0             4.939               743                 42                  14.43142445595048   
+
+(Prof-AVGPen)/Weight26952.0                  29690.0             6.701               749                 32                  10.158800831107154  
+
+Random sorting      23906.0                  29072.0             18.528              731                 86                  21.609637747845728  
+
+Instance 48)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+28530.0             37572.24999999999   60,171              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              26212.0                  30328.0             15.715              662                 75                  15.702731573325194  
+
+Prof/Weight         26794.0                  30548.0             10.875              744                 58                  14.010599387922671  
+
+(Prof-AVGPen)/Weight27662.0                  30665.0             4.775               739                 36                  10.856048008097751  
+
+Random sorting      24952.0                  30170.0             14.911              723                 77                  20.912151330554664  
+
+Instance 49)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+27936.0             36543.75            60,231              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              24943.0                  29398.0             14.09               738                 72                  17.86072244717957   
+
+Prof/Weight         25312.0                  29110.0             9.985               767                 64                  15.004740834386851  
+
+(Prof-AVGPen)/Weight25156.0                  29365.0             9.416               739                 46                  16.73159484814756   
+
+Random sorting      23931.0                  29294.0             8.972               752                 77                  22.410262838995447  
+
+Instance 50)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+26054.0             35902.875           60,169              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              25198.0                  28605.0             11.388              741                 67                  13.520914358282404  
+
+Prof/Weight         25606.0                  28785.0             12.455              726                 64                  12.415058970553776  
+
+(Prof-AVGPen)/Weight26177.0                  28850.0             8.193               725                 45                  10.21125415441036   
+
+Random sorting      23711.0                  28432.0             11.652              719                 72                  19.910590021509     
+
+Instance 51)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+36763.0             48920.625           60,214              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              33473.0                  38820.0             39.981              327                 112                 15.974068652346668  
+
+Prof/Weight         34483.0                  39130.0             19.938              388                 78                  13.476205666560334  
+
+(Prof-AVGPen)/Weight35375.0                  39425.0             17.658              385                 68                  11.448763250883392  
+
+Random sorting      31313.0                  38768.0             33.343              398                 117                 23.808003065819307  
+
+Instance 52)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+37492.0             49751.0             60,227              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              34284.0                  39781.0             23.948              351                 94                  16.033718352584295  
+
+Prof/Weight         35940.0                  40327.0             16.213              403                 56                  12.206455203116304  
+
+(Prof-AVGPen)/Weight37085.0                  40610.0             8.91                437                 44                  9.505190777942564   
+
+Random sorting      32975.0                  39515.0             33.862              350                 103                 19.833206974981046  
+
+Instance 53)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+37936.0             49349.125           60,166              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              34327.0                  39644.0             35.871              368                 96                  15.4892650100504    
+
+Prof/Weight         34728.0                  39599.0             15.038              430                 50                  14.026146049297397  
+
+(Prof-AVGPen)/Weight35353.0                  40019.0             12.193              436                 54                  13.198314145899923  
+
+Random sorting      32321.0                  39448.0             42.409              342                 115                 22.050679125027074  
+
+Instance 54)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+36888.0             49382.5             60,208              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              33987.0                  39494.0             35.652              347                 113                 16.203254185423837  
+
+Prof/Weight         34127.0                  39546.0             20.425              406                 69                  15.87892284701263   
+
+(Prof-AVGPen)/Weight35270.0                  39734.0             17.435              417                 49                  12.656648709951801  
+
+Random sorting      32877.0                  39261.0             27.01               355                 102                 19.417830093986677  
+
+Instance 55)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+36321.0             49397.25            60,188              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              35138.0                  39816.0             33.474              356                 81                  13.313222152655246  
+
+Prof/Weight         34249.0                  39655.0             21.993              423                 84                  15.784402464305527  
+
+(Prof-AVGPen)/Weight35622.0                  39588.0             19.594              402                 65                  11.133569142664646  
+
+Random sorting      32788.0                  39102.0             21.588              408                 83                  19.257045260461144  
+
+Instance 56)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+37373.0             50278.75            60,223              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              34746.0                  39954.0             29.031              351                 91                  14.988775686409946  
+
+Prof/Weight         35297.0                  39996.0             24.408              415                 81                  13.312746125733065  
+
+(Prof-AVGPen)/Weight35280.0                  40530.0             25.623              409                 91                  14.880952380952381  
+
+Random sorting      33056.0                  39853.0             53.409              359                 113                 20.562076476282673  
+
+Instance 57)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+36736.0             48819.25            60,440              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              34139.0                  39168.0             32.816              359                 82                  14.730952869152583  
+
+Prof/Weight         33587.0                  38747.0             30.86               395                 67                  15.363086908625363  
+
+(Prof-AVGPen)/Weight34263.0                  39168.0             13.299              412                 57                  14.3157341738902    
+
+Random sorting      32144.0                  39102.0             30.376              368                 114                 21.646341463414632  
+
+Instance 58)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+37546.0             49806.75            60,210              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              34816.0                  39469.0             21.512              357                 83                  13.364545036764705  
+
+Prof/Weight         34537.0                  39484.0             28.087              391                 83                  14.323768711816312  
+
+(Prof-AVGPen)/Weight35547.0                  39429.0             29.517              419                 62                  10.920752806143978  
+
+Random sorting      33089.0                  39554.0             28.956              391                 101                 19.53821511680619   
+
+Instance 59)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+37141.0             49243.83333333334   60,214              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              33788.0                  39105.0             26.654              398                 80                  15.736356102758375  
+
+Prof/Weight         34382.0                  39139.0             17.661              462                 57                  13.835727997207842  
+
+(Prof-AVGPen)/Weight35216.0                  39157.0             8.22                465                 34                  11.190935938209904  
+
+Random sorting      32409.0                  39012.0             20.422              461                 110                 20.37397019346478   
+
+Instance 60)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+35033.0             47589.49999999999   60,176              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              32162.0                  37481.0             44.431              405                 99                  16.538150612524095  
+
+Prof/Weight         32464.0                  37570.0             22.469              472                 66                  15.72819122720552   
+
+(Prof-AVGPen)/Weight33385.0                  37197.0             9.917               486                 44                  11.418301632469673  
+
+Random sorting      31355.0                  37337.0             27.386              468                 104                 19.078296922340936  
+
+Instance 1)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+10477.0             11639.477351916377  30,073              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              9423.0                   10484.0             0.532               4103                15                  11.259683752520429  
+
+Prof/Weight         9178.0                   10551.0             0.233               4374                20                  14.959686206145129  
+
+(Prof-AVGPen)/Weight9060.0                   10408.0             0.338               3932                23                  14.87858719646799   
+
+Random sorting      8455.0                   10453.0             0.45                3355                27                  23.63098758131283   
+
+Instance 2)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+10223.0             11592.663426522819  30,094              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              9174.0                   10170.0             0.306               3445                22                  10.856769130150425  
+
+Prof/Weight         8618.0                   10414.0             0.408               3407                29                  20.8401021118589    
+
+(Prof-AVGPen)/Weight9032.0                   10374.0             0.207               3887                20                  14.858281665190434  
+
+Random sorting      8246.0                   10220.0             0.613               3061                27                  23.93887945670628   
+
+Instance 3)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9774.0              11086.046749202764  30,100              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              8102.0                   9780.0              0.569               3370                35                  20.710935571463835  
+
+Prof/Weight         8342.0                   9942.0              0.58                3299                28                  19.180052745145048  
+
+(Prof-AVGPen)/Weight8656.0                   9789.0              0.181               3904                16                  13.089186691312385  
+
+Random sorting      7552.0                   9711.0              0.747               3318                45                  28.58845338983051   
+
+Instance 4)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9819.0              10678.904381938733  30,179              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              8579.0                   9635.0              0.576               3604                26                  12.309126937871547  
+
+Prof/Weight         8793.0                   9640.0              0.464               3989                25                  9.632662345047196   
+
+(Prof-AVGPen)/Weight8776.0                   9734.0              0.296               4064                20                  10.916134913400183  
+
+Random sorting      7907.0                   9752.0              0.495               4012                35                  23.33375490072088   
+
+Instance 5)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9739.0              11182.217164148975  30,068              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              8342.0                   10006.0             0.355               3597                22                  19.947254854950852  
+
+Prof/Weight         8439.0                   9758.0              0.482               4163                18                  15.62981395899988   
+
+(Prof-AVGPen)/Weight8825.0                   9969.0              0.223               4138                20                  12.963172804532578  
+
+Random sorting      8055.0                   9625.0              0.716               3549                39                  19.490999379267535  
+
+Instance 6)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9970.0              11108.158615015911  30,060              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              8829.0                   9934.0              0.446               3526                24                  12.515573677653189  
+
+Prof/Weight         8587.0                   9912.0              0.159               4044                13                  15.43030161872598   
+
+(Prof-AVGPen)/Weight8933.0                   9974.0              0.138               4019                12                  11.65341990372775   
+
+Random sorting      8544.0                   9880.0              0.505               3460                24                  15.636704119850187  
+
+Instance 7)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9801.0              11197.374279323289  30,083              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              9028.0                   10060.0             0.356               3486                16                  11.431103234381922  
+
+Prof/Weight         9129.0                   9984.0              0.18                4052                8                   9.365757476174826   
+
+(Prof-AVGPen)/Weight9048.0                   9999.0              0.139               3985                11                  10.510610079575597  
+
+Random sorting      8205.0                   9735.0              0.478               3490                27                  18.647166361974406  
+
+Instance 8)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9942.0              11085.418927174283  30,226              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              8032.0                   9843.0              0.751               3592                45                  22.54731075697211   
+
+Prof/Weight         8620.0                   9503.0              0.231               4067                16                  10.243619489559165  
+
+(Prof-AVGPen)/Weight8748.0                   9609.0              0.409               4227                15                  9.842249657064473   
+
+Random sorting      8324.0                   9610.0              0.348               4124                24                  15.449303219605959  
+
+Instance 9)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9645.0              11660.929751696673  30,161              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              7919.0                   9757.0              4.307               3510                28                  23.210001262785706  
+
+Prof/Weight         8839.0                   9803.0              0.783               4117                15                  10.906211109854056  
+
+(Prof-AVGPen)/Weight8596.0                   9760.0              0.235               4101                16                  13.541181945090742  
+
+Random sorting      8229.0                   9872.0              0.458               3546                25                  19.965973994410014  
+
+Instance 10)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+9352.0              10809.41375172417   30,083              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              8095.0                   9436.0              0.404               3564                25                  16.565781346510192  
+
+Prof/Weight         7815.0                   9273.0              0.329               4129                30                  18.656429942418427  
+
+(Prof-AVGPen)/Weight7890.0                   9200.0              0.212               4035                12                  16.603295310519645  
+
+Random sorting      7322.0                   9250.0              0.578               4054                33                  26.331603387052716  
+
+Instance 11)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19767.0             23317.153025304047  60,231              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16608.0                  19956.0             4.802               1713                64                  20.158959537572255  
+
+Prof/Weight         17271.0                  19930.0             1.96                1823                38                  15.395750101325923  
+
+(Prof-AVGPen)/Weight17909.0                  19956.0             4.423               1793                41                  11.430007258920096  
+
+Random sorting      16231.0                  19995.0             3.656               1650                56                  23.190191608650114  
+
+Instance 12)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19667.0             23496.78182460116   60,111              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16895.0                  20251.0             3.848               1696                60                  19.863865048831013  
+
+Prof/Weight         17664.0                  20156.0             4.367               1654                41                  14.107789855072465  
+
+(Prof-AVGPen)/Weight18484.0                  20530.0             2.316               1938                29                  11.06903267690976   
+
+Random sorting      15763.0                  20123.0             6.8                 1645                86                  27.659709446171416  
+
+Instance 13)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19289.0             23565.73672865402   60,200              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16908.0                  19599.0             3.545               1661                51                  15.915542938254083  
+
+Prof/Weight         17106.0                  19535.0             1.563               1897                32                  14.19969601309482   
+
+(Prof-AVGPen)/Weight17270.0                  19560.0             1.616               1889                27                  13.25998841922409   
+
+Random sorting      16565.0                  19658.0             3.674               1882                54                  18.67189858134621   
+
+Instance 14)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+18692.0             22061.619958093837  60,133              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16958.0                  19100.0             3.45                1723                49                  12.631206510201675  
+
+Prof/Weight         17013.0                  19033.0             2.057               2000                31                  11.873273379180628  
+
+(Prof-AVGPen)/Weight17339.0                  19073.0             1.221               1995                24                  10.000576734529096  
+
+Random sorting      15105.0                  18934.0             3.704               1938                62                  25.349222111883485  
+
+Instance 15)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19996.0             22883.03018280873   60,472              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16751.0                  19525.0             3.782               1665                54                  16.56020536087398   
+
+Prof/Weight         16398.0                  19431.0             2.235               1912                48                  18.49615806805708   
+
+(Prof-AVGPen)/Weight16847.0                  19477.0             2.182               1913                34                  15.611088027541994  
+
+Random sorting      16094.0                  19296.0             4.015               1635                54                  19.895613272026843  
+
+Instance 16)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+18811.0             23015.896823453062  60,124              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16632.0                  19307.0             2.511               1740                38                  16.083453583453583  
+
+Prof/Weight         16474.0                  19377.0             1.909               1954                39                  17.621706932135485  
+
+(Prof-AVGPen)/Weight16794.0                  19398.0             2.834               1960                42                  15.50553769203287   
+
+Random sorting      15415.0                  19340.0             3.759               1920                66                  25.462212131041195  
+
+Instance 17)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+18953.0             23418.19087844185   60,141              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              16731.0                  19802.0             3.121               1684                45                  18.355149124379892  
+
+Prof/Weight         16751.0                  19828.0             3.582               1918                60                  18.369052593874994  
+
+(Prof-AVGPen)/Weight17152.0                  19759.0             2.407               1906                44                  15.199393656716417  
+
+Random sorting      16744.0                  19696.0             5.273               1649                69                  17.630195891065455  
+
+Instance 18)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19028.0             23002.114109104878  60,283              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              17279.0                  19449.0             3.294               1696                44                  12.558597141038256  
+
+Prof/Weight         16813.0                  19392.0             3.167               1937                44                  15.339320763694761  
+
+(Prof-AVGPen)/Weight17177.0                  19471.0             2.026               1926                38                  13.355067823252023  
+
+Random sorting      15644.0                  18969.0             2.304               1940                40                  21.25415494758374   
+
+Instance 19)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+19596.0             23348.944218151395  60,119              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              17631.0                  19556.0             9.114               1715                28                  10.918268958085191  
+
+Prof/Weight         17074.0                  19563.0             3.169               1950                34                  14.57772051071805   
+
+(Prof-AVGPen)/Weight17178.0                  19613.0             2.871               1920                31                  14.175107695890091  
+
+Random sorting      16922.0                  20028.0             4.331               1665                71                  18.354804396643424  
+
+Instance 20)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+20332.0             23692.468483491743  60,376              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              17643.0                  20675.0             3.257               1665                50                  17.18528594910163   
+
+Prof/Weight         17155.0                  20167.0             2.214               1919                35                  17.55756339259691   
+
+(Prof-AVGPen)/Weight17458.0                  20039.0             2.753               1917                33                  14.784053156146179  
+
+Random sorting      17234.0                  20265.0             4.693               1656                58                  17.587327376116978  
+
+Instance 21)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+27523.0             36183.375           60,135              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              24158.0                  29000.0             12.517              762                 87                  20.043049921351106  
+
+Prof/Weight         24536.0                  28868.0             10.289              770                 67                  17.655689598956638  
+
+(Prof-AVGPen)/Weight25164.0                  28897.0             8.771               784                 54                  14.834684469877605  
+
+Random sorting      23438.0                  28206.0             13.01               780                 66                  20.34303268196945   
+
+Instance 22)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+28516.0             36750.850000000006  60,155              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              26349.0                  30433.0             7.867               765                 56                  15.49963945500778   
+
+Prof/Weight         26801.0                  30472.0             8.143               764                 62                  13.69725010260811   
+
+(Prof-AVGPen)/Weight26394.0                  30543.0             6.945               766                 48                  15.719481700386451  
+
+Random sorting      24253.0                  30252.0             13.933              758                 97                  24.735084319465635  
+
+Instance 23)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+28178.0             36613.25            60,142              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              25904.0                  29758.0             8.823               776                 65                  14.878011117974058  
+
+Prof/Weight         25453.0                  29732.0             11.383              762                 65                  16.811377833654188  
+
+(Prof-AVGPen)/Weight26293.0                  29856.0             11.448              713                 34                  13.551135283155213  
+
+Random sorting      24874.0                  29762.0             12.306              752                 87                  19.65104124788936   
+
+Instance 24)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+27293.0             36258.048148148155  60,136              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              25670.0                  29374.0             15.489              745                 79                  14.429294896766653  
+
+Prof/Weight         25892.0                  29136.0             9.492               765                 59                  12.528966476131624  
+
+(Prof-AVGPen)/Weight26182.0                  29564.0             8.665               765                 48                  12.917271407837447  
+
+Random sorting      25768.0                  29634.0             15.078              761                 88                  15.003104625892579  
+
+Instance 25)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+27149.0             35000.81914893616   60,159              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              24594.0                  28520.0             7.477               791                 64                  15.963243067414817  
+
+Prof/Weight         25074.0                  28601.0             10.944              780                 52                  14.066363563851     
+
+(Prof-AVGPen)/Weight25452.0                  28659.0             7.503               780                 46                  12.600188590287601  
+
+Random sorting      23425.0                  28381.0             19.245              765                 104                 21.156883671291354  
+
+Instance 26)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+28319.0             35887.68333333333   60,143              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              23733.0                  29162.0             18.111              770                 100                 22.875321282602286  
+
+Prof/Weight         25243.0                  28936.0             9.093               777                 54                  14.62979835994137   
+
+(Prof-AVGPen)/Weight26249.0                  29074.0             6.465               785                 32                  10.762314754847804  
+
+Random sorting      23446.0                  28931.0             12.443              780                 78                  23.394182376524782  
+
+Instance 27)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+28808.0             36645.171875        60,187              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              26179.0                  30175.0             10.142              760                 75                  15.26414301539402   
+
+Prof/Weight         26087.0                  29916.0             9.037               771                 67                  14.677808870318549  
+
+(Prof-AVGPen)/Weight26835.0                  29893.0             4.929               779                 39                  11.395565492826533  
+
+Random sorting      24366.0                  30055.0             12.936              766                 80                  23.348108019371256  
+
+Instance 28)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+28177.0             36224.95833333333   60,130              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              25518.0                  29573.0             10.332              760                 76                  15.890743788698176  
+
+Prof/Weight         25189.0                  29220.0             7.45                762                 57                  16.003017190043273  
+
+(Prof-AVGPen)/Weight25782.0                  29208.0             4.855               777                 35                  13.288340702815917  
+
+Random sorting      23919.0                  28857.0             15.299              756                 83                  20.644675780760068  
+
+Instance 29)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+29761.0             36644.06896551724   60,163              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              26663.0                  31026.0             9.968               738                 78                  16.363499981247422  
+
+Prof/Weight         26947.0                  30981.0             10.374              746                 54                  14.970126544698854  
+
+(Prof-AVGPen)/Weight27790.0                  30904.0             7.287               748                 44                  11.205469593378915  
+
+Random sorting      26475.0                  30836.0             7.376               737                 57                  16.472143531633616  
+
+Instance 30)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+30022.0             37106.125           60,139              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              26244.0                  30586.0             10.827              758                 78                  16.54473403444597   
+
+Prof/Weight         25873.0                  30160.0             7.148               774                 60                  16.569396668341515  
+
+(Prof-AVGPen)/Weight26511.0                  30550.0             8.294               772                 58                  15.235185394741805  
+
+Random sorting      24732.0                  30402.0             12.051              755                 91                  22.925764192139738  
+
+Instance 31)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+36138.0             48303.66666666667   60,153              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              33471.0                  38502.0             29.185              363                 88                  15.030922290938426  
+
+Prof/Weight         32872.0                  38491.0             23.493              428                 72                  17.09357507909467   
+
+(Prof-AVGPen)/Weight34360.0                  38601.0             12.614              428                 54                  12.342840512223516  
+
+Random sorting      31695.0                  38664.0             30.692              417                 120                 21.987695220066257  
+
+Instance 32)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+36900.0             48876.50000000001   60,163              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              33884.0                  39215.0             46.788              324                 100                 15.733089363711485  
+
+Prof/Weight         34062.0                  39135.0             23.907              396                 74                  14.893429628324819  
+
+(Prof-AVGPen)/Weight34433.0                  39203.0             18.236              410                 74                  13.852989864374294  
+
+Random sorting      32494.0                  38956.0             38.32               352                 102                 19.886748322767282  
+
+Instance 33)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+37569.0             49085.08333333333   60,160              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              34386.0                  38916.0             19.447              366                 79                  13.173966149014133  
+
+Prof/Weight         33417.0                  39260.0             21.184              424                 74                  17.48511236795643   
+
+(Prof-AVGPen)/Weight34852.0                  39377.0             18.351              427                 51                  12.983472971422014  
+
+Random sorting      32172.0                  38537.0             44.246              418                 108                 19.784284470968544  
+
+Instance 34)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+37153.0             49484.875           60,150              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              34079.0                  40030.0             35.675              356                 117                 17.462366853487485  
+
+Prof/Weight         34440.0                  39879.0             21.102              423                 92                  15.792682926829269  
+
+(Prof-AVGPen)/Weight36118.0                  39808.0             15.267              428                 64                  10.216512542222715  
+
+Random sorting      33472.0                  40013.0             33.662              358                 92                  19.541706500956025  
+
+Instance 35)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+35962.0             48962.812499999985  60,148              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              31529.0                  38300.0             29.201              357                 111                 21.475467030353006  
+
+Prof/Weight         32805.0                  38611.0             19.96               422                 82                  17.698521566834323  
+
+(Prof-AVGPen)/Weight33217.0                  38546.0             13.49               425                 56                  16.042990035222928  
+
+Random sorting      30220.0                  38581.0             33.679              409                 136                 27.667107875579088  
+
+Instance 36)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+38059.0             50208.375           60,200              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              35157.0                  40230.0             28.861              356                 83                  14.429558836078163  
+
+Prof/Weight         35857.0                  40374.0             14.726              425                 65                  12.597261343670693  
+
+(Prof-AVGPen)/Weight36095.0                  40205.0             11.941              430                 55                  11.386618645241724  
+
+Random sorting      33790.0                  40221.0             38.415              358                 94                  19.032258064516128  
+
+Instance 37)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+35511.0             48933.25            60,154              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              33374.0                  38537.0             25.367              358                 86                  15.470126445736202  
+
+Prof/Weight         33189.0                  38068.0             22.384              431                 58                  14.700653831088614  
+
+(Prof-AVGPen)/Weight34433.0                  38525.0             21.395              427                 57                  11.88394853773996   
+
+Random sorting      30945.0                  37968.0             38.664              413                 123                 22.695104217159475  
+
+Instance 38)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+34772.0             48435.66666666667   60,151              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              33686.0                  38677.0             31.029              356                 104                 14.816244137030221  
+
+Prof/Weight         33832.0                  38655.0             17.558              427                 68                  14.255734216126745  
+
+(Prof-AVGPen)/Weight34495.0                  39026.0             24.179              431                 58                  13.135236990868243  
+
+Random sorting      31198.0                  38685.0             29.663              357                 120                 23.998333226488878  
+
+Instance 39)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+35677.0             48367.5             60,142              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              33496.0                  38479.0             30.781              357                 94                  14.876403152615236  
+
+Prof/Weight         33530.0                  38180.0             25.251              426                 72                  13.868177751267522  
+
+(Prof-AVGPen)/Weight34504.0                  38252.0             27.286              426                 56                  10.862508694644099  
+
+Random sorting      31930.0                  38274.0             27.975              358                 103                 19.868462261196367  
+
+Instance 40)
+CPLEX results:
+
+Obj.                Best bound          Time[s]             TL[s]               
+36565.0             48879.833333333336  60,149              30                  
+
+Metaheuristic results:
+
+Type of start       Initial ObjFunct.        Optimum             Time[s]             Total it.           Useful it.          Increment %         
+
+AVGPen              34418.0                  39185.0             30.398              360                 75                  13.85031088383985   
+
+Prof/Weight         34661.0                  39081.0             17.367              428                 65                  12.752084475346932  
+
+(Prof-AVGPen)/Weight34912.0                  39421.0             18.096              428                 67                  12.91532997250229   
+
+Random sorting      31967.0                  38848.0             32.829              358                 105                 21.52532298933275   
 
